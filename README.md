@@ -1,1 +1,2 @@
 # Statistical-Analysis-and-Practical-Insights-on-Crop
+Statistical analysis of agricultural crop production and yield data using data cleaning, exploratory data analysis (EDA), hypothesis testing, trend analysis, productivity metrics, and time-series techniques. This project provides insights into crop performance, yield variations, growth patterns, and factors influencing agricultural productivity.
